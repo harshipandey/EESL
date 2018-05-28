@@ -451,7 +451,7 @@
     "gender": 0,
     "bloodGroup": 0,
     "reportingTo": null,
-    "postedAt": null,
+    "postedAt": null
 	}
 ]
 }
